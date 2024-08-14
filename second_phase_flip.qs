@@ -3,6 +3,6 @@ namespace Kata {
         H(qs[0]);
         H(qs[1]);
         CZ(qs[0],qs[1]);
-        
+     
     }
 }
